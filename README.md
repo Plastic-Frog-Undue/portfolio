@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Samandar Abdujabbarov — Portfolio
 
 A modern, dark-themed React portfolio built with Vite.
@@ -37,3 +38,6 @@ In `Hero.jsx`, the "View My Work" button is linked. If you want a "Download Resu
 npm run build
 # Then deploy the /dist folder to Vercel, Netlify, or GitHub Pages
 ```
+=======
+# portfolio
+>>>>>>> 35cd46922de5efa1b9887d07366f7b3594b69f44
